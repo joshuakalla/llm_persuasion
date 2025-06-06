@@ -1,23 +1,22 @@
+theme: jekyll-theme-cayman
 title: "Embedding LLM Chatbots into Qualtrics Surveys"
-authors: 
-  - Zhongren Chen
-  - Joshua Kalla
-  - Quan Le
-  - Shinpei Nakamura-Sakai
-  - Jasjeet Sekhon
-  - Ruixiao Wang
-layout: default
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-  
+description: "Research by Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang"
+
 # GitHub integration
 github:
-  repository_url: "https://github.com/joshuakalla/llm_persuasion"
-  is_project_page: true
-  show_downloads: true
-  
-# Page layout
-classes: wide
-toc: true
-toc_label: "Guide Contents"
-toc_sticky: true
+  repository_url: https://github.com/joshuakalla/llm_persuasion
+  repository_name: llm_persuasion
+  owner_name: joshuakalla
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Author information
+authors:
+  - "Zhongren Chen"
+  - "Joshua Kalla" 
+  - "Quan Le"
+  - "Shinpei Nakamura-Sakai"
+  - "Jasjeet Sekhon"
+  - "Ruixiao Wang"
