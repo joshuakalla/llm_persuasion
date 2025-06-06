@@ -1,6 +1,3 @@
-# Embedding LLM Chatbots into Qualtrics Surveys
-*Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang*
-
 In [our research](https://arxiv.org/abs/2505.00036), we test the persuasive impact of LLM chatbots on various political topics. The surveys are implemented by integrating Qualtrics with Anthropic's Claude model via AWS services. In particular, we use AWS Bedrock for language model inference and AWS Lambda to process our requests from Qualtrics.
 
 We are sharing this post to assist other researchers interested in embedding chatbots into their own Qualtrics surveys. This post is accurate as of June 2025. Please submit a pull request or reach out to Josh Kalla (josh(dot)kalla(at)yale(dot)edu) if you notice that any of this information is out of date.
