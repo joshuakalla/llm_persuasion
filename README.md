@@ -1,1 +1,1 @@
-# llm_persuasion
+# Research on LLMs and Political Persuasion
