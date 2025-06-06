@@ -7,12 +7,8 @@ authors:
   - Jasjeet Sekhon
   - Ruixiao Wang
 layout: default
-
-# Visual styling
-header:
-  overlay_color: "#2563eb"
-  overlay_filter: "0.3"
-  overlay_image: "/assets/images/llm-qualtrics-banner.png" # Optional banner image
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
   
 # GitHub integration
 github:
