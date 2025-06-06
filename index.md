@@ -1,3 +1,15 @@
+---
+title: "Embedding LLM Chatbots into Qualtrics Surveys"
+authors: 
+  - Zhongren Chen
+  - Joshua Kalla
+  - Quan Le
+  - Shinpei Nakamura-Sakai
+  - Jasjeet Sekhon
+  - Ruixiao Wang
+layout: default
+---
+
 # Embedding LLM Chatbots into Qualtrics Surveys
 *Zhongren Chen, Joshua Kalla, Quan Le, Shinpei Nakamura-Sakai, Jasjeet Sekhon, Ruixiao Wang*
 
