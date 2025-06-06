@@ -276,6 +276,6 @@ Insert the API endpoint from AWS API Gateway within the quotation marks. This en
 1. Select the **Survey Flow** icon on the left menu.
 2. Add a new **Embedded Data** element, name it `messages`.
 
-<img width="1258" alt="survey_flow" src="https://github.com/user-attachments/assets/c52f3176-a41d-4501-88ed-322acdd0b050" />
+![Alt text](Images/survey_flow.png)
 
 3. Select the **Data & Analysis** tab. To view survey conversations, select **Column Chooser** > **Embedded Data** > **messages**. It may take some time if you just finished testing a survey.
