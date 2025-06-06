@@ -7,3 +7,21 @@ authors:
   - Jasjeet Sekhon
   - Ruixiao Wang
 layout: default
+
+# Visual styling
+header:
+  overlay_color: "#2563eb"
+  overlay_filter: "0.3"
+  overlay_image: "/assets/images/llm-qualtrics-banner.png" # Optional banner image
+  
+# GitHub integration
+github:
+  repository_url: "https://github.com/joshuakalla/llm_persuasion"
+  is_project_page: true
+  show_downloads: true
+  
+# Page layout
+classes: wide
+toc: true
+toc_label: "Guide Contents"
+toc_sticky: true
